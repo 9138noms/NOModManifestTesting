@@ -1,0 +1,19 @@
+{
+    "name":  "NOFrameLimiter",
+    "description":  "FPS Limiter For Nuclear Option",
+    "infoUrl":  "https://github.com/KopterBuzz/NOFrameLimiter",
+    "supportedVersion" : "0.32",
+    "authors": ["KopterBuzz"],
+    "dependencies" :
+    [],
+    "artifacts" :
+    [
+        {        
+            "version":  "0.0.2",
+            "artifact_url":  "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
+            "hash": "",
+            "extends" :
+            []
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name":  "NOBlackBox",
+    "description":  "Tacview Exporter Plugin",
+    "infoUrl":  "https://github.com/KopterBuzz/NOBlackBox",
+    "supportedVersion" : "0.32",
+    "authors": ["KopterBuzz"],
+    "dependencies" : [],
+    "artifacts" :
+    [
+        {
+            "fileName" : "NOBlackBox-0.3.8.2.zip",        
+            "version":  "0.3.8.2",
+            "artifactUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
+            "hash": "",
+            "extends" : []
+        },
+        {
+            "fileName" : "NOBlackBox-0.3.8.1.zip",        
+            "version":  "0.3.8.1",
+            "artifactUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.1/NOBlackBox-0.3.8.1.zip",
+            "hash": "",
+            "extends" : []
+        }
+    ]
+}

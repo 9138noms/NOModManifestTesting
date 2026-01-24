@@ -1,47 +1,107 @@
 [
-    {
-        "name":  "NOBlackBox",
-        "description":  "Tacview Exporter Plugin",
-        "info_url":  "https://github.com/KopterBuzz/NOBlackBox",
-        "artifacts" :
-        [
-          {        
-            "version":  "0.3.8.1",
-            "artifact_url":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.1/NOBlackBox-0.3.8.1.zip",
-            "hash": "NOTIMPLEMENTED"
-          },
-          {
-            "version":  "0.3.8.2",
-            "artifact_url":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
-            "hash": "NOTIMPLEMENTED"
-          }
-        ]
-    },
-    {
-        "name":  "NOFrameLimiter",
-        "description":  "FPS Limiter Plugin",
-        "info_url":  "https://github.com/KopterBuzz/NOFrameLimiter",
-        "artifacts" :
-        [
-          {
-            "version":  "0.0.2",
-            "artifact_url":  "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
-            "hash": "NOTIMPLEMENTED"
-          }
-        ]
-
-    },
-    {
-        "name":  "NOCursorOverride",
-        "description":  "Custom Cursor Override Plugin",
-        "info_url":  "https://github.com/KopterBuzz/NOCursorOverride",
-        "artifacts" : 
-        [
-          {
-          "version":  "0.0.2",
-          "artifact_url":  "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
-          "hash": "NOTIMPLEMENTED"
-          }
-        ]
-    }
+  {
+    "name": "NO_Tactitools",
+    "description": "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
+    "infoUrl": "https://github.com/clumzy/NO_Tactitools",
+    "supportedVersion": "0.32",
+    "authors": [
+      "\"George\""
+    ],
+    "dependencies": [
+      {
+        "name": "no-autopilot-mod",
+        "minimumVersion": "4.13.8"
+      }
+    ],
+    "artifacts": [
+      {
+        "fileName": "NOTT_PR_0.6.0.zip",
+        "version": "0.6.0",
+        "artifactUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0/NOTT_PR_0.6.0.zip",
+        "hash": "",
+        "extends": []
+      }
+    ]
+  },
+  {
+    "name": "no-autopilot-mod",
+    "description": "autopilot mod for nuclear option",
+    "infoUrl": "https://github.com/qwerty1423/no-autopilot-mod",
+    "supportedVersion": "0.32",
+    "authors": [
+      "qwerty1423"
+    ],
+    "dependencies": [],
+    "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.13.8.zip",
+        "version": "4.13.8",
+        "artifactUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.8/com.qwerty1423.NOAutopilot-4.13.8.zip",
+        "hash": "",
+        "extends": []
+      }
+    ]
+  },
+  {
+    "name": "NOBlackBox",
+    "description": "Tacview Exporter Plugin",
+    "infoUrl": "https://github.com/KopterBuzz/NOBlackBox",
+    "supportedVersion": "0.32",
+    "authors": [
+      "KopterBuzz"
+    ],
+    "dependencies": [],
+    "artifacts": [
+      {
+        "fileName": "NOBlackBox-0.3.8.2.zip",
+        "version": "0.3.8.2",
+        "artifactUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
+        "hash": "",
+        "extends": []
+      },
+      {
+        "fileName": "NOBlackBox-0.3.8.1.zip",
+        "version": "0.3.8.1",
+        "artifactUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.1/NOBlackBox-0.3.8.1.zip",
+        "hash": "",
+        "extends": []
+      }
+    ]
+  },
+  {
+    "name": "NOCursorOverride",
+    "description": "Custom Cursor Override Plugin",
+    "info_url": "https://github.com/KopterBuzz/NOCursorOverride",
+    "supportedVersion": "0.32",
+    "authors": [
+      "KopterBuzz"
+    ],
+    "dependencies": [],
+    "artifacts": [
+      {
+        "version": "0.0.2",
+        "artifact_url": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
+        "hash": "",
+        "extends": []
+      }
+    ]
+  },
+  {
+    "name": "NOFrameLimiter",
+    "description": "FPS Limiter For Nuclear Option",
+    "infoUrl": "https://github.com/KopterBuzz/NOFrameLimiter",
+    "supportedVersion": "0.32",
+    "authors": [
+      "KopterBuzz"
+    ],
+    "dependencies": [],
+    "artifacts": [
+      {
+        "version": "0.0.2",
+        "artifact_url": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
+        "hash": "",
+        "extends": []
+      }
+    ]
+  }
 ]

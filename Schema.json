@@ -1,0 +1,30 @@
+{
+    "name":  "",
+    "description":  "",
+    "infoUrl":  "",
+    "supportedVersion" : "",
+    "authors": [],
+    "dependencies" :
+    [
+        {
+            "name" : "",
+            "minimumVersion" : ""
+        }
+    ],
+    "artifacts" :
+    [
+        {
+            "fileName": "",        
+            "version":  "",
+            "artifactUrl":  "",
+            "hash": "",
+            "extends" :
+            [
+                {
+                    "name": "",
+                    "minimumVersion" : ""
+                }
+            ]
+        }
+    ]
+}

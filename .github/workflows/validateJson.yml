@@ -1,0 +1,42 @@
+name: Process Modified JSON Files (Windows)
+
+on:
+  pull_request:
+    branches:
+      - staging
+    paths:
+      - '**/modManifests/*.json'
+
+jobs:
+  run-script-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Note: Pinning to a specific commit SHA is a security best practice
+      - name: Get Changed JSON Files
+        id: changed-files
+        uses: tj-actions/changed-files@v45 
+        with:
+          files: |
+             **/*.json
+
+      - name: Run Script on Changed Files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        shell: pwsh
+        run: |
+          # The output is a space-separated string; we split it into an array
+          $files = "${{ steps.changed-files.outputs.all_changed_files }}" -split " "
+          $currentManifest = (get-content ".\manifest\manifest.json" | ConvertFrom-Json) | Group-Object name -AsHashTable
+          foreach ($file in $files) {
+              Write-Host "Processing file: $file"
+              
+              # If your script is a PowerShell script (.ps1):
+              .\Validate-JsonSchema.ps1 -JsonPath "$file" -SchemaPath .\ValidationSchema.json
+              
+              # OR if your script is a Python script:
+              # python .\scripts\your-script.py "$file"
+          }

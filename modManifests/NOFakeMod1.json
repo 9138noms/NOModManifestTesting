@@ -1,6 +1,6 @@
 {
-    "id": "1",
-    "displayName":  "NOFakeMod_1",
+    "id": "KopterBuzz.NOFakeMod1",
+    "displayName":  "NOFakeMod 1",
     "description":  "FakeMod_1 for Testing",
     "tags":["fake"],
     "infoUrl":  "https://github.com/KopterBuzz/NOFakeMod_1",
@@ -13,7 +13,7 @@
             "category": "release",
             "type": "mod",
             "gameVersion": "0.32",
-            "downloadUrl":  "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOBlackBox-1.0.0.0.zip",
+            "downloadUrl":  "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOFakeMod_1-1.0.0.0.zip",
             "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf"
         }
     ]

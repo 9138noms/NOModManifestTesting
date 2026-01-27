@@ -39,7 +39,4 @@ jobs:
               
               # If your script is a PowerShell script (.ps1):
               .\Validate-JsonSchema.ps1 -JsonPath "$file" -SchemaPath .\ValidationSchema.json
-              
-              # OR if your script is a Python script:
-              # python .\scripts\your-script.py "$file"
           }

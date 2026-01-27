@@ -1,108 +1,105 @@
 [
   {
-    "name": "NO_Tactitools",
-    "description": "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
-    "infoUrl": "https://github.com/clumzy/NO_Tactitools",
-    "supportedVersion": "0.32",
-    "authors": [
-      "\"George\""
+    "id": "KopterBuzz.NOFakeMod_1_FakeAddOn",
+    "displayName": "NOFakeMod_1_FakeAddOn",
+    "description": "NOFakeMod_1_FakeAddOn for Testing",
+    "tags": [
+      "fake"
     ],
-    "dependencies": [
-      {
-        "name": "no-autopilot-mod",
-        "minimumVersion": "4.13.8"
-      }
-    ],
-    "artifacts": [
-      {
-        "fileName": "NOTT_PR_0.6.0.zip",
-        "version": "0.6.0",
-        "artifactUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0/NOTT_PR_0.6.0.zip",
-        "hash": "sha256:3d58c9987603c4285291ddf18b26525c70c96253eb88666200c298712bddade9",
-        "extends": []
-      }
-    ]
-  },
-  {
-    "name": "no-autopilot-mod",
-    "description": "autopilot mod for nuclear option",
-    "infoUrl": "https://github.com/qwerty1423/no-autopilot-mod",
-    "supportedVersion": "0.32",
-    "authors": [
-      "qwerty1423"
-    ],
-    "dependencies": [],
-    "artifacts": [
-      {
-        "fileName": "com.qwerty1423.NOAutopilot-4.13.8.zip",
-        "version": "4.13.8",
-        "artifactUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.8/com.qwerty1423.NOAutopilot-4.13.8.zip",
-        "hash": "",
-        "extends": []
-      }
-    ]
-  },
-  {
-    "name": "NOBlackBox",
-    "description": "Tacview Exporter Plugin",
-    "infoUrl": "https://github.com/KopterBuzz/NOBlackBox",
-    "supportedVersion": "0.32",
+    "infoUrl": "https://github.com/KopterBuzz/NOFakeMod_1",
     "authors": [
       "KopterBuzz"
     ],
-    "dependencies": [],
     "artifacts": [
       {
-        "fileName": "NOBlackBox-0.3.8.2.zip",
-        "version": "0.3.8.2",
-        "artifactUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
-        "hash": "4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
-        "extends": []
-      },
-      {
-        "fileName": "NOBlackBox-0.3.8.1.zip",
-        "version": "0.3.8.1",
-        "artifactUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.1/NOBlackBox-0.3.8.1.zip",
-        "hash": "",
-        "extends": []
+        "fileName": "NOFakeMod_1_FakeAddOn-1.0.0.0.zip",
+        "version": "1.0.0.0",
+        "category": "release",
+        "type": "addon",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOBlackBox-1.0.0.0.zip",
+        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+        "extends": {
+          "id": "1",
+          "version": "1.0.0.0"
+        }
       }
     ]
   },
   {
-    "name": "NOCursorOverride",
-    "description": "Custom Cursor Override Plugin",
-    "infoUrl": "https://github.com/KopterBuzz/NOCursorOverride",
-    "supportedVersion": "0.32",
+    "id": "KopterBuzz.NOFakeMod1",
+    "displayName": "NOFakeMod 1",
+    "description": "FakeMod_1 for Testing",
+    "tags": [
+      "fake"
+    ],
+    "infoUrl": "https://github.com/KopterBuzz/NOFakeMod_1",
     "authors": [
       "KopterBuzz"
     ],
-    "dependencies": [],
     "artifacts": [
       {
-        "fileName": "NOCursorOverride-0.0.2.zip",
-        "version": "0.0.2",
-        "artifactUrl": "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
-        "hash": "",
-        "extends": []
+        "fileName": "NOFakeMod_1-1.0.0.0.zip",
+        "version": "1.0.0.2",
+        "category": "release",
+        "type": "mod",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOFakeMod_1-1.0.0.0.zip",
+        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf"
       }
     ]
   },
   {
-    "name": "NOFrameLimiter",
-    "description": "FPS Limiter For Nuclear Option",
-    "infoUrl": "https://github.com/KopterBuzz/NOFrameLimiter",
-    "supportedVersion": "0.32",
+    "id": "KopterBuzz.NOFakeMod2",
+    "displayName": "NOFakeMod 2",
+    "description": "FakeMod_2 for Testing",
+    "tags": [
+      "fake"
+    ],
+    "infoUrl": "https://github.com/KopterBuzz/NOFakeMod_2",
     "authors": [
       "KopterBuzz"
     ],
-    "dependencies": [],
     "artifacts": [
       {
-        "fileName": "NOFrameLimiter-0.0.2.zip",
-        "version": "0.0.2",
-        "artifactUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
-        "hash": "",
-        "extends": []
+        "fileName": "NOFakeMod_2-1.0.0.0.zip",
+        "version": "1.0.0.2",
+        "category": "release",
+        "type": "mod",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/KopterBuzz/NOFakeMod_1/releases/download/1.0.0.0/NOFakeMod_2_1.0.0.0.zip",
+        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+        "dependencies": {
+          "id": "KopterBuzz.NOFakeMod1",
+          "version": "1.0.0.0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "KopterBuzz.NOFakeMod3",
+    "displayName": "NOFakeMod 3",
+    "description": "FakeMod_3 for Testing",
+    "tags": [
+      "fake"
+    ],
+    "infoUrl": "https://github.com/KopterBuzz/NOFakeMod_3",
+    "authors": [
+      "KopterBuzz"
+    ],
+    "artifacts": [
+      {
+        "fileName": "NOFakeMod_3-1.0.0.0.zip",
+        "version": "1.0.0.0",
+        "category": "release",
+        "type": "mod",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/KopterBuzz/NOFakeMod_3/releases/download/1.0.0.0/NOFakeMod_3-1.0.0.0.zip",
+        "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+        "incompatibilities": {
+          "id": "KopterBuzz.NOFakeMod1",
+          "version": "1.0.0.0"
+        }
       }
     ]
   }

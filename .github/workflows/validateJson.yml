@@ -2,9 +2,7 @@ name: Process Modified JSON Files (Windows)
 
 on:
   pull_request:
-    branches:
-      - staging
-      - dev
+    branches: [dev,staging]
     paths:
       - '**/modManifests/*.json'
 

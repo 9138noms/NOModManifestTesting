@@ -114,6 +114,9 @@ For full detailed overview of the Schema, please continue reading.
 id : Mod id as string
 version : Mod version as string
 ```
+id must be the known Mod id of the mod this extends, as seen in the Manifest
+
+version must be the minimum version this extension is compatible with
 
 ### dependencies
 
@@ -124,6 +127,9 @@ version : Mod version as string
 id : Mod id as string
 version : Mod version as string
 ```
+id must be the known Mod id of the mod this depends on, as seen in the Manifest
+
+version must be the minimum version this extension is compatible with
 
 ### incompatibilities
 
@@ -134,6 +140,9 @@ version : Mod version as string
 id : Mod id as string
 version : Mod version as string
 ```
+id must be the known Mod id of the mod this is incompatible with, as seen in the Manifest
+
+version must be the latest known version this mod is incompatible with
 
 ## HOW TO CONTRIBUTE MOD MANIFESTS
 

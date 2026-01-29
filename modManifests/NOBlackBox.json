@@ -1,25 +1,20 @@
 {
-    "name":  "NOBlackBox",
-    "description":  "Tacview Exporter Plugin",
+    "id": "NOBlackBox",
+    "displayName":  "NOBlackBox",
+    "description":  "Tacview telemetry exporter for mission debriefing.",
+    "tags":["mod","QoL"],
     "infoUrl":  "https://github.com/KopterBuzz/NOBlackBox",
-    "supportedVersion" : "0.32",
     "authors": ["KopterBuzz"],
-    "dependencies" : [],
     "artifacts" :
     [
         {
             "fileName" : "NOBlackBox-0.3.8.2.zip",        
             "version":  "0.3.8.2",
-            "artifactUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
-            "hash": "4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
-            "extends" : []
-        },
-        {
-            "fileName" : "NOBlackBox-0.3.8.1.zip",        
-            "version":  "0.3.8.1",
-            "artifactUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.1/NOBlackBox-0.3.8.1.zip",
-            "hash": "",
-            "extends" : []
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.2/NOBlackBox-0.3.8.2.zip",
+            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf"
         }
     ]
 }

@@ -1,25 +1,27 @@
 {
-    "name":  "NO_Tactitools",
+    "id": "NO_Tactitools",
+    "displayName":  "NO TactiTools",
     "description":  "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
+    "tags":["mod","QoL"],
     "infoUrl":  "https://github.com/clumzy/NO_Tactitools",
-    "supportedVersion" : "0.32",
     "authors": ["\"George\""],
-    "dependencies" :
-    [
-        {
-            "name" : "no-autopilot-mod",
-            "minimumVersion" : "4.13.8"
-        }
-    ],
     "artifacts" :
     [
-        {        
-            "fileName": "NOTT_PR_0.6.0.zip",
-            "version":  "0.6.0",
-            "artifactUrl":  "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0/NOTT_PR_0.6.0.zip",
-            "hash": "sha256:3d58c9987603c4285291ddf18b26525c70c96253eb88666200c298712bddade9",
-            "extends" :
-            []
+        {
+            "fileName" : "NOTT_PR_0.6.0.1.zip",        
+            "version":  "0.6.0.1",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.1/NOTT_PR_0.6.0.1.zip",
+            "hash": "sha256:c54c45325bea3c19d83de54f4bd4e99ab5641f3b3c03b2e90a11b6fe4e0bd7bb",
+            "dependencies":
+            [
+                {
+                    "id": "no-autopilot-mod",
+                    "version": "4.13.9"
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "id": "highfleet_ru_voice",
+    "displayName":  "Highfleet RU",
+    "description":  "[Voice Pack] Russian combat radio chatter style.",
+    "tags":["voicepack","QoL"],
+    "infoUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "authors": ["giorno0075"],
+    "artifacts" :
+    [
+        {
+            "fileName" : "HighfleetRu (by giorno0075).7z",        
+            "version":  "1.0.0",
+            "category": "release",
+            "type": "addon",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator/blob/master/VoicePacks/HighfleetRu%20(by%20giorno0075).7z",
+            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+            "extends":{
+                "id": "WSOYappinator",
+                "version": "2.1.1"
+            }
+        }
+    ]
+}

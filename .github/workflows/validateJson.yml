@@ -1,9 +1,12 @@
 name: Process Modified JSON Files (Windows)
 
 on:
+  push:
+    branches: [dev,staging]
+    paths:
+      - '**/modManifests/*.json'   
   pull_request:
-    branches:
-      - staging
+    branches: [dev,staging]
     paths:
       - '**/modManifests/*.json'
 
@@ -22,7 +25,7 @@ jobs:
         uses: tj-actions/changed-files@v45 
         with:
           files: |
-             **/*.json
+             **/modManifests/*.json
 
       - name: Run Script on Changed Files
         if: steps.changed-files.outputs.any_changed == 'true'
@@ -30,13 +33,10 @@ jobs:
         run: |
           # The output is a space-separated string; we split it into an array
           $files = "${{ steps.changed-files.outputs.all_changed_files }}" -split " "
-          $currentManifest = (get-content ".\manifest\manifest.json" | ConvertFrom-Json) | Group-Object name -AsHashTable
+          $currentManifest = (get-content ".\manifest\manifest.json" | ConvertFrom-Json) | Group-Object id -AsHashTable
           foreach ($file in $files) {
               Write-Host "Processing file: $file"
               
               # If your script is a PowerShell script (.ps1):
               .\Validate-JsonSchema.ps1 -JsonPath "$file" -SchemaPath .\ValidationSchema.json
-              
-              # OR if your script is a Python script:
-              # python .\scripts\your-script.py "$file"
           }

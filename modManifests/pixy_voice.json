@@ -1,0 +1,24 @@
+{
+    "id": "pixy_voice",
+    "displayName":  "Pixy",
+    "description":  "[Voice Pack] Solo Wing Pixy combat dialogue.",
+    "tags":["voicepack","QoL"],
+    "infoUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "authors": ["Littlesneez"],
+    "artifacts" :
+    [
+        {
+            "fileName" : "Pixy (by Littlesneez).7z",        
+            "version":  "1.0.0",
+            "category": "release",
+            "type": "addon",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/Pixy%20(by%20Littlesneez).7z",
+            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+            "extends":{
+                "id": "WSOYappinator",
+                "version": "2.1.1"
+            }
+        }
+    ]
+}

@@ -17,7 +17,7 @@ function Validate-URL
     Param([string]$URL,[bool]$artifact)
     $isURL = [uri]::IsWellFormedUriString($URL, 'Absolute') -and ([uri] $URL).Scheme -eq 'https'
     if ($artifact) {
-        $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z"
+        $isSupportedArchive = $URL -match ".zip\z|.rar\z|.7z\z|.dll\z"
         if ($isURL -and $isSupportedArchive)
         {
             return $true
@@ -36,7 +36,7 @@ function Validate-FileName
 {
     Param([string]$fileName)
 
-    $isSupportedArchive = $fileName -match ".zip\z|.rar\z|.7z\z"
+    $isSupportedArchive = $fileName -match ".zip\z|.rar\z|.7z\z|.dll\z"
     if ($isSupportedArchive)
     {
         return $true

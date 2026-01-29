@@ -1,0 +1,20 @@
+{
+    "id": "NOLiveryPlus",
+    "displayName":  "Livery Plus",
+    "description":  "A BepInEx mod and unity editor tool combo for making Nuclear option Liveries with full control over the material.",
+    "tags":["mod","QoL"],
+    "infoUrl":  "https://github.com/nikkorap/NOLiveryPlus",
+    "authors": ["nikkorap"],
+    "artifacts" :
+    [
+        {
+            "fileName" : "LiveryPlusBepInEx.zip",        
+            "version":  "1.2.0",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/nikkorap/NOLiveryPlus/releases/download/BepinexMod/LiveryPlusBepInEx.zip",
+            "hash": "sha256:8fc8c1676aeb314adcdaa2b4c1eb2c4245bbfc030de0e046f00afd7b23921940"
+        }
+    ]
+}

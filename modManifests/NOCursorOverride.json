@@ -1,0 +1,20 @@
+{
+    "id": "NOCursorOverride",
+    "displayName":  "NOCursorOverride",
+    "description":  "BepInEx plugin for Nuclear Option to replace the Mouse Cursor",
+    "tags":["QoL"],
+    "infoUrl":  "https://github.com/KopterBuzz/NOCursorOverride",
+    "authors": ["KopterBuzz"],
+    "artifacts" :
+    [
+        {
+            "fileName" : "NOCursorOverride-0.0.2.zip",        
+            "version":  "0.0.2",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/KopterBuzz/NOCursorOverride/releases/download/0.0.2/NOCursorOverride-0.0.2.zip",
+            "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
+        }
+    ]
+}

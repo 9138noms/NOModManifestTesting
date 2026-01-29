@@ -1,0 +1,20 @@
+{
+    "id": "WSOYappinator",
+    "displayName":  "WSO Yappinator",
+    "description":  "Core framework required for custom WSO Voice Packs.",
+    "tags":["mod","QoL"],
+    "infoUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "authors": ["nikkorap"],
+    "artifacts" :
+    [
+        {
+            "fileName" : "com.nikkorap.WSOYappinator_2.1.1.dll",        
+            "version":  "2.1.1",
+            "category": "release",
+            "type": "plugin",
+            "gameVersion": "0.32",
+            "downloadUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator/releases/download/2.1.1/com.nikkorap.WSOYappinator_2.1.1.dll",
+            "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
+        }
+    ]
+}

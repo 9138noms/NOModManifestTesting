@@ -143,7 +143,7 @@
   },
   {
     "id": "no-autopilot-mod",
-    "displayName": "Livery Plus",
+    "displayName": "NOAutopilot",
     "description": "autopilot mod for nuclear option",
     "tags": [
       "mod",
@@ -155,7 +155,7 @@
     ],
     "artifacts": [
       {
-        "fileName": "LiveryPlusBepInEx.zip",
+        "fileName": "com.qwerty1423.NOAutopilot-4.13.9.zip",
         "version": "4.13.9",
         "category": "release",
         "type": "plugin",

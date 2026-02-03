@@ -1,23 +1,23 @@
 {
-  "id": "galaxy2_voice",
-  "displayName": "Galaxy 2",
-  "description": "[Voice Pack] Expanded AWACS Galaxy dialogue pack.",
+  "id": "klawshout_voice",
+  "displayName": "KlawShout",
+  "description": "[Voice Pack] High-energy personality for intense combat.",
   "tags": [
     "voicepack",
     "QoL"
   ],
   "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
   "authors": [
-    "Nikkorap"
+    "Klawifiantix"
   ],
   "artifacts": [
     {
-      "fileName": "Galaxy2 (by Nikkorap).7z",
+      "fileName": "KlawShout (by Klawifiantix).rar",
       "version": "1.0.0",
       "category": "release",
       "type": "addon",
       "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/nikkorap/NO-WSO-Yappinator/blob/master/VoicePacks/Galaxy2%20(by%20Nikkorap).7z",
+      "downloadUrl": "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/KlawShout%20(by%20Klawifiantix).rar",
       "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
       "extends": {
         "id": "WSOYappinator",

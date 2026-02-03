@@ -1,0 +1,27 @@
+{
+  "id": "LaserRocketFix",
+  "displayName": "Yaw On Mouse",
+  "description": "This mod disables firing laser guided rockets at unlased targets. So for example chicane will only ever fire at a maximum of 4 targets, and only at those that it actually has line of sight to.",
+  "tags": [
+    "mod"
+  ],
+  "infoUrl": "https://github.com/downloadpizza/LaserRocketFix/",
+  "authors": [
+    "downloadpizza"
+  ],
+  "githubOwner": "downloadpizza",
+  "githubRepoName": "LaserRocketFix",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "LaserRocketFix.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/downloadpizza/LaserRocketFix/releases/download/v1.0.0/LaserRocketFix.dll",
+      "hash": null
+    }
+  ],
+  "downloadCount": 118
+}

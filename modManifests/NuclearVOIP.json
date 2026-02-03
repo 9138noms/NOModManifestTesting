@@ -1,0 +1,28 @@
+{
+  "id": "NuclearVOIP",
+  "displayName": "NuclearVOIP",
+  "description": "VOIP features for Nuclear Option",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "infoUrl": "https://github.com/TYKUHN2/NuclearVOIP",
+  "authors": [
+    "TYKUHN2"
+  ],
+  "githubOwner": "TYKUHN2",
+  "githubRepoName": "NuclearVOIP",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NuclearVOIP.7z",
+      "version": "0.4.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.4.0/NuclearVOIP.7z",
+      "hash": null
+    }
+  ],
+  "downloadCount": 44
+}

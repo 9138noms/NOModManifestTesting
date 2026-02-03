@@ -1,31 +1,56 @@
 {
-    "id": "NO_Tactitools",
-    "displayName":  "NO TactiTools",
-    "description":  "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
-    "tags":["mod","QoL"],
-    "infoUrl":  "https://github.com/clumzy/NO_Tactitools",
-    "authors": ["\"George\""],
-    "artifacts" :
-    [
+  "id": "NO_Tactitools",
+  "displayName": "NO TactiTools",
+  "description": "Nuclear Option Tactical Tools is an immersion and QoL focused gameplay mod.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "infoUrl": "https://github.com/clumzy/NO_Tactitools",
+  "authors": [
+    "\"George\""
+  ],
+  "githubOwner": "clumzy",
+  "githubRepoName": "NO_Tactitools",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "NOTT_PR_0.6.0.2.zip",
+      "version": "0.6.0.2",
+      "category": "preRelease",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.2/NOTT_PR_0.6.0.2.zip",
+      "hash": null,
+      "dependencies": [
         {
-            "fileName" : "NOTT_PR_0.6.0.1.zip",        
-            "version":  "0.6.0.1",
-            "category": "release",
-            "type": "plugin",
-            "gameVersion": "0.32",
-            "downloadUrl":  "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.1/NOTT_PR_0.6.0.1.zip",
-            "hash": "sha256:c54c45325bea3c19d83de54f4bd4e99ab5641f3b3c03b2e90a11b6fe4e0bd7bb",
-            "dependencies":
-            [
-                {
-                    "id": "no-autopilot-mod",
-                    "version": "4.13.9"
-                },
-                {
-                    "id": "BepInEx.ConfigurationManager",
-                    "version": "18.4.1"
-                }
-            ]
+          "id": "no-autopilot-mod",
+          "version": "4.13.9"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
         }
-    ]
+      ]
+    },
+    {
+      "fileName": "NOTT_PR_0.6.0.1.zip",
+      "version": "0.6.0.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/clumzy/NO_Tactitools/releases/download/0.6.0.1/NOTT_PR_0.6.0.1.zip",
+      "hash": "sha256:c54c45325bea3c19d83de54f4bd4e99ab5641f3b3c03b2e90a11b6fe4e0bd7bb",
+      "dependencies": [
+        {
+          "id": "no-autopilot-mod",
+          "version": "4.13.9"
+        },
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
+    }
+  ],
+  "downloadCount": 1584
 }

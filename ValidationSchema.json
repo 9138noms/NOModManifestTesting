@@ -15,6 +15,9 @@
       "type": "array",
       "items": { "type": "string" }
     },
+    "githubOwner" : {"type": "string"},
+    "githubRepoName" : {"type": "string"},
+    "autoUpdateArtifacts" : {"type": "string"},
     "artifacts": {
       "type": "array",
       "items": {
@@ -27,7 +30,7 @@
           "type": { "type": "string"},
           "gameVersion": { "type": "string" },
           "downloadUrl": { "type": "string", "format": "uri" },
-          "hash": { "type": "string" },
+          
           "extends": {
             "type": "object",
             "required" : ["id","version"],

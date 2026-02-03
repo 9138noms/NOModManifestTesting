@@ -1,0 +1,27 @@
+{
+  "id": "YawOnMouse",
+  "displayName": "Yaw On Mouse",
+  "description": "QoL mod which should benefit colourblind players, plus the ability to toggle player names on and off. (Player names appear above the aircraft triangle symbol in online matches, for better situational awareness of who is who.)",
+  "tags": [
+    "mod"
+  ],
+  "infoUrl": "https://github.com/muji2498/YawOnMouse/",
+  "authors": [
+    "muji2498"
+  ],
+  "githubOwner": "muji2498",
+  "githubRepoName": "YawOnMouse",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "YawOnMouse.dll",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/muji2498/YawOnMouse/releases/download/1.0.0/YawOnMouse.dll",
+      "hash": null
+    }
+  ],
+  "downloadCount": 165
+}

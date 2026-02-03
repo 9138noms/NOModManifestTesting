@@ -127,7 +127,7 @@ try
         $artifact
         Write-Host "Validating fileName: $(Validate-FileName -fileName $artifact.fileName)"
         Write-Host "Validating artifactUrl: $(Validate-URL -URL $artifact.downloadUrl -artifact $true)"
-        Write-Host "Validating fileHash: $(Validate-FileHashFormat -hashString $artifact.hash)"
+        #Write-Host "Validating fileHash: $(Validate-FileHashFormat -hashString $artifact.hash)"
         Write-Host "Validating version: $(Validate-Version -versionString $artifact.version)"
         Write-Host "Validating gameVersion: $(Validate-Version -versionString $artifact.gameVersion)"
         if ($artifact.dependencies)

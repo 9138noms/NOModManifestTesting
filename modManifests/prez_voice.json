@@ -1,24 +1,29 @@
 {
-    "id": "prez_voice",
-    "displayName":  "Prez",
-    "description":  "[Voice Pack] Classic backseater dialogue lines.",
-    "tags":["voicepack","QoL"],
-    "infoUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator",
-    "authors": ["nikkorap"],
-    "artifacts" :
-    [
-        {
-            "fileName" : "Prez (by Nikkorap).7z",        
-            "version":  "1.0.0",
-            "category": "release",
-            "type": "addon",
-            "gameVersion": "0.32",
-            "downloadUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/Prez%20(by%20Nikkorap).7z",
-            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
-            "extends":{
-                "id": "WSOYappinator",
-                "version": "2.1.1"
-            }
-        }
-    ]
+  "id": "prez_voice",
+  "displayName": "Prez",
+  "description": "[Voice Pack] Classic backseater dialogue lines.",
+  "tags": [
+    "voicepack",
+    "QoL"
+  ],
+  "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+  "authors": [
+    "nikkorap"
+  ],
+  "artifacts": [
+    {
+      "fileName": "Prez (by Nikkorap).7z",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/Prez%20(by%20Nikkorap).7z",
+      "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+      "extends": {
+        "id": "WSOYappinator",
+        "version": "2.1.1"
+      }
+    }
+  ],
+  "downloadCount": 0
 }

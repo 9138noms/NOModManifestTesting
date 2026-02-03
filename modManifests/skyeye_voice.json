@@ -1,24 +1,29 @@
 {
-    "id": "skyeye_voice",
-    "displayName":  "AWACS Sky Eye",
-    "description":  "[Voice Pack] Custom AWACS dialogue lines for Sky Eye.",
-    "tags":["voicepack","QoL"],
-    "infoUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator",
-    "authors": ["Littlesneez"],
-    "artifacts" :
-    [
-        {
-            "fileName" : "AWACS Sky Eye (by Littlesneez).7z",        
-            "version":  "1.0.0",
-            "category": "release",
-            "type": "addon",
-            "gameVersion": "0.32",
-            "downloadUrl":  "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/AWACS%20Sky%20Eye%20(by%20Littlesneez).7z",
-            "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
-            "extends":{
-                "id": "WSOYappinator",
-                "version": "2.1.1"
-            }
-        }
-    ]
+  "id": "skyeye_voice",
+  "displayName": "AWACS Sky Eye",
+  "description": "[Voice Pack] Custom AWACS dialogue lines for Sky Eye.",
+  "tags": [
+    "voicepack",
+    "QoL"
+  ],
+  "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+  "authors": [
+    "Littlesneez"
+  ],
+  "artifacts": [
+    {
+      "fileName": "AWACS Sky Eye (by Littlesneez).7z",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/nikkorap/NO-WSO-Yappinator/raw/master/VoicePacks/AWACS%20Sky%20Eye%20(by%20Littlesneez).7z",
+      "hash": "sha256:4a1b37d5b3cde5ac5b53b86ef85d7c9ad3fe1b88935021cf18eb62f99c69d6bf",
+      "extends": {
+        "id": "WSOYappinator",
+        "version": "2.1.1"
+      }
+    }
+  ],
+  "downloadCount": 0
 }

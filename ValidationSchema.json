@@ -10,7 +10,9 @@
       "type" : "array",
       "items" : {"type" : "string"}
     },
-    "infoUrl": { "type": "string", "format": "uri" },
+    "infoUrl": { "type": "array",
+      "items": {"type" : "string", "format": "uri" }
+    },
     "authors": {
       "type": "array",
       "items": { "type": "string" }

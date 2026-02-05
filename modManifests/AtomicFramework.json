@@ -5,7 +5,7 @@
   "tags": [
     "mod"
   ],
-  "infoUrl": "https://github.com/TYKUHN2/AtomicFramework",
+  "infoUrl": ["info,https://github.com/TYKUHN2/AtomicFramework"],
   "authors": [
     "TYKUHN2"
   ],

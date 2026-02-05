@@ -15,6 +15,7 @@ foreach ($mod in $modManifestFiles)
     }
 
 }
+
 try {
     $newManifestData = @()
     foreach ($mod in $modManifestFiles)

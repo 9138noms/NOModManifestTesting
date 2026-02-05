@@ -6,7 +6,9 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/TYKUHN2/AtomicFramework",
+    "infoUrl": [
+      "info,https://github.com/TYKUHN2/AtomicFramework"
+    ],
     "authors": [
       "TYKUHN2"
     ],
@@ -33,7 +35,9 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/Ol1vver/bepinex-soundmod",
+    "infoUrl": [
+      "info,https://github.com/Ol1vver/bepinex-soundmod"
+    ],
     "authors": [
       "Ol1vver"
     ],
@@ -61,7 +65,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/BepInEx/BepInEx.ConfigurationManager",
+    "infoUrl": [
+      "info,https://github.com/BepInEx/BepInEx.ConfigurationManager"
+    ],
     "authors": [
       "BepInEx"
     ],
@@ -89,7 +95,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "Nikkorap"
     ],
@@ -118,7 +126,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "giorno0075"
     ],
@@ -147,7 +157,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "lazy1lol"
     ],
@@ -176,7 +188,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "Klawifiantix"
     ],
@@ -199,12 +213,14 @@
   },
   {
     "id": "LaserRocketFix",
-    "displayName": "Yaw On Mouse",
+    "displayName": "LaserRocketFix",
     "description": "This mod disables firing laser guided rockets at unlased targets. So for example chicane will only ever fire at a maximum of 4 targets, and only at those that it actually has line of sight to.",
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/downloadpizza/LaserRocketFix/",
+    "infoUrl": [
+      "info,https://github.com/downloadpizza/LaserRocketFix/"
+    ],
     "authors": [
       "downloadpizza"
     ],
@@ -232,7 +248,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/clumzy/NO_Tactitools",
+    "infoUrl": [
+      "info,https://github.com/clumzy/NO_Tactitools"
+    ],
     "authors": [
       "\"George\""
     ],
@@ -289,7 +307,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/qwerty1423/no-autopilot-mod",
+    "infoUrl": [
+      "info,https://github.com/qwerty1423/no-autopilot-mod"
+    ],
     "authors": [
       "qwerty1423"
     ],
@@ -301,6 +321,7 @@
         "fileName": "com.qwerty1423.NOAutopilot-4.13.13.zip",
         "version": "4.13.13",
         "category": "release",
+        "type": "plugin",
         "gameVersion": "0.32",
         "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.13.13/com.qwerty1423.NOAutopilot-4.13.13.zip",
         "hash": null
@@ -325,7 +346,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/KopterBuzz/NOBlackBox",
+    "infoUrl": [
+      "info,https://github.com/KopterBuzz/NOBlackBox"
+    ],
     "authors": [
       "KopterBuzz"
     ],
@@ -358,7 +381,9 @@
     "tags": [
       "QoL"
     ],
-    "infoUrl": "https://github.com/KopterBuzz/NOCursorOverride",
+    "infoUrl": [
+      "info,https://github.com/KopterBuzz/NOCursorOverride"
+    ],
     "authors": [
       "KopterBuzz"
     ],
@@ -386,7 +411,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/KopterBuzz/NOFrameLimiter",
+    "infoUrl": [
+      "info,https://github.com/KopterBuzz/NOFrameLimiter"
+    ],
     "authors": [
       "KopterBuzz"
     ],
@@ -401,7 +428,13 @@
         "type": "plugin",
         "gameVersion": "0.32",
         "downloadUrl": "https://github.com/KopterBuzz/NOFrameLimiter/releases/download/0.0.2/NOFrameLimiter-0.0.2.zip",
-        "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793"
+        "hash": "sha256:f129c353228ef32a9b9a23ef1818b59441ce07f4b04aa1995c32aa8b80289793",
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
       }
     ],
     "downloadCount": 71
@@ -414,7 +447,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NOLiveryPlus",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NOLiveryPlus"
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -442,7 +477,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/TYKUHN2/NuclearVOIP",
+    "infoUrl": [
+      "info,https://github.com/TYKUHN2/NuclearVOIP"
+    ],
     "authors": [
       "TYKUHN2"
     ],
@@ -470,7 +507,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "Littlesneez"
     ],
@@ -499,7 +538,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -528,7 +569,9 @@
       "mod",
       "devtools"
     ],
-    "infoUrl": "https://github.com/ManlyMarco/RuntimeUnityEditor",
+    "infoUrl": [
+      "info,https://github.com/ManlyMarco/RuntimeUnityEditor"
+    ],
     "authors": [
       "ManlyMarco"
     ],
@@ -556,7 +599,9 @@
       "voicepack",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "Littlesneez"
     ],
@@ -585,7 +630,9 @@
       "mod",
       "QoL"
     ],
-    "infoUrl": "https://github.com/nikkorap/NO-WSO-Yappinator",
+    "infoUrl": [
+      "info,https://github.com/nikkorap/NO-WSO-Yappinator"
+    ],
     "authors": [
       "nikkorap"
     ],
@@ -612,7 +659,9 @@
     "tags": [
       "mod"
     ],
-    "infoUrl": "https://github.com/muji2498/YawOnMouse/",
+    "infoUrl": [
+      "info,https://github.com/muji2498/YawOnMouse/"
+    ],
     "authors": [
       "muji2498"
     ],

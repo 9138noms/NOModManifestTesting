@@ -1,0 +1,47 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Hourly Update
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # Runs every hour at minute 0
+    - cron: '0 * * * *'
+  # Optional: allows manual triggering from Actions tab
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-files:
+    runs-on: windows-latest
+    
+    steps:
+      - name: Checkout specific branch
+        uses: actions/checkout@v4
+        with:
+          ref: dev  # Replace with your branch name
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Run Validation
+        shell: pwsh
+        run: |
+          .\Run-AutoUpdate.ps1
+          if (!$LASTEXITCODE -eq 0)
+          {
+            EXIT 1
+          }
+          .\Run-JsonValidation.ps1
+          if (!$LASTEXITCODE -eq 0)
+          {
+            EXIT 1
+          }
+          .\Increment-ManifestVersion.ps1
+      - name: Commit and push changes
+        shell: pwsh
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git diff --staged --quiet || git commit -m "Automated update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push

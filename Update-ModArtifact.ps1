@@ -85,7 +85,9 @@ if ($releases)
 {
     foreach ($release in $releases)
     {
+        $ErrorActionPreference = 'SilentlyContinue'
         if ($release.IsDraft){continue}
+        
         $version = [version]($release.TagName -replace "v|\-pre|_IL2CPP","")
         if (($version -gt [version]($artifacts[0].version) -and $($mod.autoUpdateArtifacts) -eq "True") -or !$artifacts)
         {
@@ -116,6 +118,7 @@ if ($releases)
 
         $downloadCount+=$release.Assets[0].downloadCount
     }
+    $ErrorActionPreference = 'Continue'
     $mod.artifacts = @(SortByVersion -artifacts_ $artifacts)
 }
 if ($mod.downloadCount) {

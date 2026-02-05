@@ -26,7 +26,13 @@
       "type": "plugin",
       "gameVersion": "0.32",
       "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.15.1/com.qwerty1423.NOAutopilot-4.15.1.zip",
-      "hash": null
+      "hash": null,
+      "dependencies": [
+        {
+          "id": "BepInEx.ConfigurationManager",
+          "version": "18.4.1"
+        }
+      ]
     },
     {
       "fileName": "com.qwerty1423.NOAutopilot-4.15.0.zip",

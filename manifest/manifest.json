@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 143
+    "downloadCount": 145
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1701
+    "downloadCount": 1704
   },
   {
     "id": "no-autopilot-mod",
@@ -429,7 +429,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 793
+    "downloadCount": 800
   },
   {
     "id": "NOBlackBox",
@@ -597,6 +597,21 @@
     "artifacts": [
       {
         "fileName": "NOX.7z",
+        "version": "0.1.4",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.1.4/NOX.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "NOX.7z",
         "version": "0.1.3",
         "category": "preRelease",
         "type": "plugin",
@@ -611,7 +626,7 @@
         ]
       }
     ],
-    "downloadCount": 20
+    "downloadCount": 29
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -644,7 +659,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 33
+    "downloadCount": 35
   },
   {
     "id": "NuclearVOIP",
@@ -778,7 +793,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115132
+    "downloadCount": 115134
   },
   {
     "id": "skyeye_voice",
@@ -845,7 +860,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 405
+    "downloadCount": 406
   },
   {
     "id": "YawOnMouse",

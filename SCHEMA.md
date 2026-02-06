@@ -110,6 +110,12 @@ url : the actual URL
 - Format: string
 - name of the actual downloadable content file. Should be an archive, such as zip, rar, 7z.
 
+### downloadUrl
+
+- REQUIRED
+- Format: string url
+- download url to the latest release
+
 ### gameVersion
 
 - REQUIRED

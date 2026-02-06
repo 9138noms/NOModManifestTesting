@@ -1,7 +1,7 @@
 {
   "id": "YawOnMouse",
   "displayName": "Yaw On Mouse",
-  "description": "QoL mod which should benefit colourblind players, plus the ability to toggle player names on and off. (Player names appear above the aircraft triangle symbol in online matches, for better situational awareness of who is who.)",
+  "description": "Yaw On Mouse allows you to control the Yaw axis instead of the Roll axis with the Mouse",
   "tags": [
     "mod"
   ],

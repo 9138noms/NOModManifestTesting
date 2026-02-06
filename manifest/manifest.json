@@ -61,7 +61,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 136
+    "downloadCount": 137
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 141
+    "downloadCount": 142
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1696
+    "downloadCount": 1697
   },
   {
     "id": "no-autopilot-mod",
@@ -429,7 +429,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 784
+    "downloadCount": 788
   },
   {
     "id": "NOBlackBox",
@@ -468,7 +468,7 @@
         ]
       }
     ],
-    "downloadCount": 1415
+    "downloadCount": 1419
   },
   {
     "id": "NOCursorOverride",
@@ -500,7 +500,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 16
+    "downloadCount": 17
   },
   {
     "id": "NOFrameLimiter",
@@ -611,7 +611,7 @@
         ]
       }
     ],
-    "downloadCount": 8
+    "downloadCount": 10
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -644,7 +644,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 25
+    "downloadCount": 31
   },
   {
     "id": "NuclearVOIP",
@@ -778,7 +778,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115122
+    "downloadCount": 115126
   },
   {
     "id": "skyeye_voice",
@@ -845,7 +845,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 401
+    "downloadCount": 402
   },
   {
     "id": "YawOnMouse",

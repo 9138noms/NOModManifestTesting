@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "NuclearVOIP.7z",
+      "version": "0.5.0",
+      "category": "preRelease",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.5.0-pre/NuclearVOIP.7z",
+      "hash": null
+    },
+    {
+      "fileName": "NuclearVOIP.7z",
       "version": "0.4.0",
       "category": "release",
       "type": "plugin",
@@ -29,5 +38,5 @@
       "hash": null
     }
   ],
-  "downloadCount": 71
+  "downloadCount": 77
 }

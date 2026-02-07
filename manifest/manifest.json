@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 75
+    "downloadCount": 77
   },
   {
     "id": "bepinex-soundmod",
@@ -61,7 +61,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 142
+    "downloadCount": 143
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -262,7 +262,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 155
+    "downloadCount": 157
   },
   {
     "id": "NO_Tactitools",
@@ -324,7 +324,7 @@
         ]
       }
     ],
-    "downloadCount": 1725
+    "downloadCount": 1726
   },
   {
     "id": "no-autopilot-mod",
@@ -459,7 +459,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 823
+    "downloadCount": 828
   },
   {
     "id": "NOBlackBox",
@@ -498,7 +498,7 @@
         ]
       }
     ],
-    "downloadCount": 1433
+    "downloadCount": 1435
   },
   {
     "id": "NOCursorOverride",
@@ -530,7 +530,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 21
+    "downloadCount": 22
   },
   {
     "id": "NOFrameLimiter",
@@ -569,7 +569,7 @@
         ]
       }
     ],
-    "downloadCount": 97
+    "downloadCount": 98
   },
   {
     "id": "NOLiveryPlus",
@@ -656,7 +656,7 @@
         ]
       }
     ],
-    "downloadCount": 63
+    "downloadCount": 67
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -707,7 +707,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 50
+    "downloadCount": 52
   },
   {
     "id": "NuclearVOIP",
@@ -732,6 +732,15 @@
     "artifacts": [
       {
         "fileName": "NuclearVOIP.7z",
+        "version": "0.5.0",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/TYKUHN2/NuclearVOIP/releases/download/v0.5.0-pre/NuclearVOIP.7z",
+        "hash": null
+      },
+      {
+        "fileName": "NuclearVOIP.7z",
         "version": "0.4.0",
         "category": "release",
         "type": "plugin",
@@ -740,7 +749,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 71
+    "downloadCount": 77
   },
   {
     "id": "pixy_voice",
@@ -841,7 +850,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115167
+    "downloadCount": 115170
   },
   {
     "id": "skyeye_voice",
@@ -908,7 +917,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 411
+    "downloadCount": 412
   },
   {
     "id": "YawOnMouse",
@@ -940,6 +949,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 182
+    "downloadCount": 183
   }
 ]

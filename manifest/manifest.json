@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 176
+    "downloadCount": 177
   },
   {
     "id": "LocalizationPatch.French",
@@ -281,7 +281,7 @@
         ]
       }
     ],
-    "downloadCount": 2
+    "downloadCount": 3
   },
   {
     "id": "LocalizationPatch.German",
@@ -332,7 +332,7 @@
         ]
       }
     ],
-    "downloadCount": 1
+    "downloadCount": 2
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 116
+    "downloadCount": 117
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115255
+    "downloadCount": 115257
   },
   {
     "id": "skyeye_voice",

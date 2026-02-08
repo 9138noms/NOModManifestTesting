@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 174
+    "downloadCount": 175
   },
   {
     "id": "LocalizationPatch.French",
@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 2
+    "downloadCount": 3
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1772
+    "downloadCount": 1773
   },
   {
     "id": "no-autopilot-mod",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 109
+    "downloadCount": 111
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115240
+    "downloadCount": 115245
   },
   {
     "id": "skyeye_voice",
@@ -1098,7 +1098,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 422
+    "downloadCount": 423
   },
   {
     "id": "YawOnMouse",

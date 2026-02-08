@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 156
+    "downloadCount": 157
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1787
+    "downloadCount": 1790
   },
   {
     "id": "no-autopilot-mod",
@@ -682,7 +682,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 886
+    "downloadCount": 887
   },
   {
     "id": "NOBlackBox",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115262
+    "downloadCount": 115264
   },
   {
     "id": "skyeye_voice",

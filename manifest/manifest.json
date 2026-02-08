@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 152
+    "downloadCount": 153
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 173
+    "downloadCount": 174
   },
   {
     "id": "NO_Tactitools",
@@ -292,7 +292,7 @@
         ]
       }
     ],
-    "downloadCount": 1767
+    "downloadCount": 1770
   },
   {
     "id": "no-autopilot-mod",
@@ -427,7 +427,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 868
+    "downloadCount": 872
   },
   {
     "id": "NOBlackBox",
@@ -466,7 +466,7 @@
         ]
       }
     ],
-    "downloadCount": 1444
+    "downloadCount": 1447
   },
   {
     "id": "NOCursorOverride",
@@ -537,7 +537,7 @@
         ]
       }
     ],
-    "downloadCount": 104
+    "downloadCount": 107
   },
   {
     "id": "NOLiveryPlus",
@@ -624,7 +624,7 @@
         ]
       }
     ],
-    "downloadCount": 101
+    "downloadCount": 107
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -675,7 +675,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 73
+    "downloadCount": 76
   },
   {
     "id": "pixy_voice",
@@ -776,7 +776,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115238
+    "downloadCount": 115240
   },
   {
     "id": "skyeye_voice",
@@ -843,7 +843,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 420
+    "downloadCount": 422
   },
   {
     "id": "YawOnMouse",

@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 4
+    "downloadCount": 6
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -721,7 +721,7 @@
         ]
       }
     ],
-    "downloadCount": 1469
+    "downloadCount": 1473
   },
   {
     "id": "NOCursorOverride",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115273
+    "downloadCount": 115278
   },
   {
     "id": "skyeye_voice",

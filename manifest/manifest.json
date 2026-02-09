@@ -434,7 +434,7 @@
         ]
       }
     ],
-    "downloadCount": 13
+    "downloadCount": 14
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -721,7 +721,7 @@
         ]
       }
     ],
-    "downloadCount": 1477
+    "downloadCount": 1478
   },
   {
     "id": "NOCursorOverride",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 127
+    "downloadCount": 128
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115301
+    "downloadCount": 115302
   },
   {
     "id": "skyeye_voice",
@@ -1130,6 +1130,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 190
+    "downloadCount": 191
   }
 ]

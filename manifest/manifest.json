@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 158
+    "downloadCount": 159
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -547,7 +547,7 @@
         ]
       }
     ],
-    "downloadCount": 1790
+    "downloadCount": 1792
   },
   {
     "id": "no-autopilot-mod",
@@ -682,7 +682,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 888
+    "downloadCount": 891
   },
   {
     "id": "NOBlackBox",
@@ -721,7 +721,7 @@
         ]
       }
     ],
-    "downloadCount": 1458
+    "downloadCount": 1462
   },
   {
     "id": "NOCursorOverride",
@@ -879,7 +879,7 @@
         ]
       }
     ],
-    "downloadCount": 120
+    "downloadCount": 122
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -930,7 +930,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 81
+    "downloadCount": 83
   },
   {
     "id": "pixy_voice",
@@ -1031,7 +1031,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115265
+    "downloadCount": 115268
   },
   {
     "id": "skyeye_voice",

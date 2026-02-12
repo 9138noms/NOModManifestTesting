@@ -25,7 +25,7 @@
       "category": "preRelease",
       "type": "plugin",
       "gameVersion": "0.32",
-      "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.3/NOBlackBox-0.3.8.3-pre.zip",
+      "downloadUrl": "https://github.com/KopterBuzz/NOBlackBox/releases/download/0.3.8.3/NOBlackBox-0.3.8.3.zip",
       "hash": null,
       "dependencies": [
         {

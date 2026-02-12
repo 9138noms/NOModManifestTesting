@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 259
+    "downloadCount": 261
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 308
+    "downloadCount": 309
   },
   {
     "id": "LocalizationPatch.French",
@@ -308,7 +308,7 @@
         ]
       }
     ],
-    "downloadCount": 40
+    "downloadCount": 41
   },
   {
     "id": "LocalizationPatch.German",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2324
+    "downloadCount": 2328
   },
   {
     "id": "no-autopilot-mod",
@@ -832,7 +832,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1369
+    "downloadCount": 1370
   },
   {
     "id": "NOBlackBox",
@@ -886,7 +886,7 @@
         ]
       }
     ],
-    "downloadCount": 1602
+    "downloadCount": 1604
   },
   {
     "id": "NOCursorOverride",
@@ -996,7 +996,7 @@
         ]
       }
     ],
-    "downloadCount": 198
+    "downloadCount": 199
   },
   {
     "id": "NOLiveryPlus",
@@ -1182,7 +1182,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 191
+    "downloadCount": 192
   },
   {
     "id": "pixy_voice",
@@ -1382,6 +1382,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 216
+    "downloadCount": 217
   }
 ]

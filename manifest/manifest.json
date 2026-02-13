@@ -29,7 +29,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 265
+    "downloadCount": 267
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 320
+    "downloadCount": 322
   },
   {
     "id": "LocalizationPatch.French",
@@ -542,7 +542,7 @@
         ]
       }
     ],
-    "downloadCount": 49
+    "downloadCount": 51
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2368
+    "downloadCount": 2372
   },
   {
     "id": "no-autopilot-mod",
@@ -847,7 +847,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1412
+    "downloadCount": 1416
   },
   {
     "id": "NOBlackBox",
@@ -901,7 +901,7 @@
         ]
       }
     ],
-    "downloadCount": 1609
+    "downloadCount": 1611
   },
   {
     "id": "NOCursorOverride",
@@ -933,7 +933,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 87
+    "downloadCount": 90
   },
   {
     "id": "NOFFB",
@@ -1011,7 +1011,7 @@
         ]
       }
     ],
-    "downloadCount": 208
+    "downloadCount": 209
   },
   {
     "id": "NOLiveryPlus",
@@ -1146,7 +1146,7 @@
         ]
       }
     ],
-    "downloadCount": 326
+    "downloadCount": 327
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1397,6 +1397,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 220
+    "downloadCount": 221
   }
 ]

@@ -230,7 +230,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 365
+    "downloadCount": 366
   },
   {
     "id": "LocalizationPatch.French",
@@ -542,7 +542,7 @@
         ]
       }
     ],
-    "downloadCount": 76
+    "downloadCount": 77
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -682,7 +682,7 @@
         ]
       }
     ],
-    "downloadCount": 2521
+    "downloadCount": 2525
   },
   {
     "id": "no-autopilot-mod",
@@ -847,7 +847,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1576
+    "downloadCount": 1578
   },
   {
     "id": "NOBlackBox",
@@ -1146,7 +1146,7 @@
         ]
       }
     ],
-    "downloadCount": 425
+    "downloadCount": 428
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1298,7 +1298,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115650
+    "downloadCount": 115652
   },
   {
     "id": "skyeye_voice",
@@ -1365,7 +1365,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 559
+    "downloadCount": 560
   },
   {
     "id": "YawOnMouse",

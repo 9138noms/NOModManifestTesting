@@ -1,7 +1,7 @@
 {
   "id": "LocalizationPatch.French",
   "displayName": "French Localization Patch",
-  "description": "French (Français) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+  "description": "French (Français) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,447 entries.",
   "tags": [
     "mod",
     "Localization"
@@ -19,6 +19,33 @@
   "githubRepoName": "NuclearOption-FrenchPatch",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "LocalizationPatch_fr.zip",
+      "version": "2.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-FrenchPatch/releases/download/v2.3.0/LocalizationPatch_fr.zip",
+      "hash": null,
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.Korean",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        }
+      ]
+    },
     {
       "fileName": "LocalizationPatch_fr.zip",
       "version": "2.2.0",

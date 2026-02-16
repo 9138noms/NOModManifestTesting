@@ -1,7 +1,7 @@
 {
   "id": "LocalizationPatch.Korean",
   "displayName": "Korean Localization Patch",
-  "description": "Korean (한국어) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,427 entries.",
+  "description": "Korean (한국어) translation for Nuclear Option. Translates UI, encyclopedia, hints, and tooltips — 1,574 entries.",
   "tags": [
     "mod",
     "Localization"
@@ -19,6 +19,33 @@
   "githubRepoName": "NuclearOption-KoreanPatch",
   "autoUpdateArtifacts": "True",
   "artifacts": [
+    {
+      "fileName": "LocalizationPatch_ko.zip",
+      "version": "2.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-KoreanPatch/releases/download/v2.3.0/LocalizationPatch_ko.zip",
+      "hash": null,
+      "incompatibilities": [
+        {
+          "id": "LocalizationPatch.German",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Russian",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.Spanish",
+          "version": "1.0.0"
+        },
+        {
+          "id": "LocalizationPatch.French",
+          "version": "1.0.0"
+        }
+      ]
+    },
     {
       "fileName": "LocalizationPatch_ko.zip",
       "version": "2.2.0",

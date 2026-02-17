@@ -1,0 +1,33 @@
+{
+  "id": "AIAircraftLimit",
+  "displayName": "AI Aircraft Limit",
+  "description": "Increase the active AI aircraft limit per faction in Nuclear Option. Allows more AI planes to be airborne simultaneously.",
+  "tags": [
+    "mod",
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-AIAircraftLimit"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-AIAircraftLimit",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "AIAircraftLimit-v1.1.0.zip",
+      "version": "1.1.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-AIAircraftLimit/releases/download/v1.1.0/AIAircraftLimit-v1.1.0.zip",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}

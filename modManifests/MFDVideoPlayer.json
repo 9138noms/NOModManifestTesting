@@ -1,0 +1,33 @@
+{
+  "id": "MFDVideoPlayer",
+  "displayName": "MFD Video Player",
+  "description": "Play custom videos on cockpit MFD screens in Nuclear Option. Load your own video files and display them on in-cockpit displays.",
+  "tags": [
+    "mod",
+    "Fun"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-MFDVideoPlayer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "MFDVideoPlayer_v1.0.0.zip",
+      "version": "1.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-MFDVideoPlayer/releases/download/v1.0.0/MFDVideoPlayer_v1.0.0.zip",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}

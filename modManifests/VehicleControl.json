@@ -1,0 +1,33 @@
+{
+  "id": "VehicleControl",
+  "displayName": "Vehicle Control",
+  "description": "Direct WASD control of ships and ground vehicles in Nuclear Option. Drive tanks, steer ships, and control ground units from first person.",
+  "tags": [
+    "mod",
+    "Gameplay"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-VehicleControl"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-VehicleControl",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "VehicleControl_v2.3.0.dll",
+      "version": "2.3.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.0/VehicleControl_v2.3.0.dll",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "WeatherController",
+  "displayName": "Weather Controller",
+  "description": "Real-time weather control with dynamic weather system for Nuclear Option. Change cloud density, wind, rain, snow, fog, and time of day in-game.",
+  "tags": [
+    "mod",
+    "QoL"
+  ],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/9138noms/NuclearOption-WeatherController"
+    }
+  ],
+  "authors": [
+    "9138noms"
+  ],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-WeatherController",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "fileName": "WeatherController_v3.0.0.zip",
+      "version": "3.0.0",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.32",
+      "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip",
+      "hash": null
+    }
+  ],
+  "downloadCount": 0
+}

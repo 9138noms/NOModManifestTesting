@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 98
+    "downloadCount": 100
   },
   {
     "id": "bepinex-soundmod",
@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 425
+    "downloadCount": 427
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -683,7 +683,7 @@
         ]
       }
     ],
-    "downloadCount": 137
+    "downloadCount": 138
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -850,7 +850,7 @@
         ]
       }
     ],
-    "downloadCount": 2838
+    "downloadCount": 2840
   },
   {
     "id": "no-autopilot-mod",
@@ -1015,7 +1015,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 1902
+    "downloadCount": 1903
   },
   {
     "id": "NOBlackBox",
@@ -1069,7 +1069,7 @@
         ]
       }
     ],
-    "downloadCount": 1768
+    "downloadCount": 1769
   },
   {
     "id": "NOCursorOverride",
@@ -1194,7 +1194,7 @@
         ]
       }
     ],
-    "downloadCount": 328
+    "downloadCount": 329
   },
   {
     "id": "NOLiveryPlus",
@@ -1338,7 +1338,7 @@
         ]
       }
     ],
-    "downloadCount": 591
+    "downloadCount": 593
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1389,7 +1389,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 302
+    "downloadCount": 303
   },
   {
     "id": "pixy_voice",
@@ -1490,7 +1490,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 115926
+    "downloadCount": 115933
   },
   {
     "id": "skyeye_voice",
@@ -1557,7 +1557,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 632
+    "downloadCount": 633
   },
   {
     "id": "YawOnMouse",

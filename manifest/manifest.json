@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 500
+    "downloadCount": 501
   },
   {
     "id": "LocalizationPatch.French",
@@ -1204,7 +1204,7 @@
         ]
       }
     ],
-    "downloadCount": 1791
+    "downloadCount": 1792
   },
   {
     "id": "NOCursorOverride",
@@ -1236,7 +1236,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 160
+    "downloadCount": 161
   },
   {
     "id": "NOFFB",
@@ -1329,7 +1329,7 @@
         ]
       }
     ],
-    "downloadCount": 346
+    "downloadCount": 347
   },
   {
     "id": "NOLiveryPlus",
@@ -1404,7 +1404,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 65
+    "downloadCount": 66
   },
   {
     "id": "NOX",
@@ -1473,7 +1473,7 @@
         ]
       }
     ],
-    "downloadCount": 628
+    "downloadCount": 629
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1625,7 +1625,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116001
+    "downloadCount": 116004
   },
   {
     "id": "skyeye_voice",

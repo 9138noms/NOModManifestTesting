@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 2993
+    "downloadCount": 2995
   },
   {
     "id": "no-autopilot-mod",
@@ -1456,6 +1456,21 @@
     "artifacts": [
       {
         "fileName": "NOX.7z",
+        "version": "0.3.0",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/lunaboards-dev/Nuclear-Option-Extensions/releases/download/v0.3.0/NOX.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
+      {
+        "fileName": "NOX.7z",
         "version": "0.2.0",
         "category": "release",
         "type": "plugin",
@@ -1500,7 +1515,7 @@
         ]
       }
     ],
-    "downloadCount": 686
+    "downloadCount": 687
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1652,7 +1667,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116102
+    "downloadCount": 116104
   },
   {
     "id": "skyeye_voice",
@@ -1719,7 +1734,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 672
+    "downloadCount": 673
   },
   {
     "id": "YawOnMouse",

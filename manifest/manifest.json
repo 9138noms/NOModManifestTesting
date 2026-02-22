@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 163
+    "downloadCount": 165
   },
   {
     "id": "bepinex-soundmod",
@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 493
+    "downloadCount": 495
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 548
+    "downloadCount": 549
   },
   {
     "id": "LocalizationPatch.French",
@@ -395,7 +395,7 @@
         ]
       }
     ],
-    "downloadCount": 113
+    "downloadCount": 114
   },
   {
     "id": "LocalizationPatch.German",
@@ -527,7 +527,7 @@
         ]
       }
     ],
-    "downloadCount": 107
+    "downloadCount": 108
   },
   {
     "id": "LocalizationPatch.Korean",
@@ -659,7 +659,7 @@
         ]
       }
     ],
-    "downloadCount": 100
+    "downloadCount": 101
   },
   {
     "id": "LocalizationPatch.Russian",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3034
+    "downloadCount": 3035
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2087
+    "downloadCount": 2089
   },
   {
     "id": "NOBlackBox",
@@ -1231,7 +1231,7 @@
         ]
       }
     ],
-    "downloadCount": 1845
+    "downloadCount": 1847
   },
   {
     "id": "NOCursorOverride",
@@ -1263,7 +1263,7 @@
         "hash": "sha256:bac8d3d0cdfbc9c77edc4a99994eb5e660641a9c9096018a700e783e19cec0e9"
       }
     ],
-    "downloadCount": 176
+    "downloadCount": 177
   },
   {
     "id": "NOFFB",
@@ -1317,7 +1317,7 @@
         ]
       }
     ],
-    "downloadCount": 112
+    "downloadCount": 114
   },
   {
     "id": "NOFrameLimiter",
@@ -1356,7 +1356,7 @@
         ]
       }
     ],
-    "downloadCount": 377
+    "downloadCount": 378
   },
   {
     "id": "NOLiveryPlus",
@@ -1431,7 +1431,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 95
+    "downloadCount": 96
   },
   {
     "id": "NOX",
@@ -1515,7 +1515,7 @@
         ]
       }
     ],
-    "downloadCount": 721
+    "downloadCount": 726
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1566,7 +1566,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 353
+    "downloadCount": 354
   },
   {
     "id": "pixy_voice",
@@ -1667,7 +1667,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116145
+    "downloadCount": 116153
   },
   {
     "id": "skyeye_voice",
@@ -1734,7 +1734,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 681
+    "downloadCount": 683
   },
   {
     "id": "YawOnMouse",

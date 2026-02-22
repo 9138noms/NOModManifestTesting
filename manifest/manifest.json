@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 550
+    "downloadCount": 551
   },
   {
     "id": "LocalizationPatch.French",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3039
+    "downloadCount": 3044
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2091
+    "downloadCount": 2093
   },
   {
     "id": "NOBlackBox",
@@ -1231,7 +1231,7 @@
         ]
       }
     ],
-    "downloadCount": 1849
+    "downloadCount": 1850
   },
   {
     "id": "NOCursorOverride",
@@ -1431,7 +1431,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 96
+    "downloadCount": 97
   },
   {
     "id": "NOX",
@@ -1515,7 +1515,7 @@
         ]
       }
     ],
-    "downloadCount": 733
+    "downloadCount": 735
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1566,7 +1566,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 356
+    "downloadCount": 357
   },
   {
     "id": "pixy_voice",
@@ -1667,7 +1667,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116163
+    "downloadCount": 116165
   },
   {
     "id": "skyeye_voice",
@@ -1766,6 +1766,6 @@
         "hash": null
       }
     ],
-    "downloadCount": 270
+    "downloadCount": 271
   }
 ]

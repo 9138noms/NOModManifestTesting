@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 487
+    "downloadCount": 488
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "downloadCount": 158
+    "downloadCount": 159
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3016
+    "downloadCount": 3019
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2076
+    "downloadCount": 2077
   },
   {
     "id": "NOBlackBox",

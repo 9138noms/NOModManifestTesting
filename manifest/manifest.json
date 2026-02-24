@@ -30,7 +30,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 181
+    "downloadCount": 182
   },
   {
     "id": "bepinex-soundmod",
@@ -62,7 +62,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 511
+    "downloadCount": 514
   },
   {
     "id": "BepInEx.ConfigurationManager",
@@ -263,7 +263,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 567
+    "downloadCount": 569
   },
   {
     "id": "LocalizationPatch.French",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3112
+    "downloadCount": 3113
   },
   {
     "id": "no-autopilot-mod",
@@ -1177,7 +1177,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2144
+    "downloadCount": 2148
   },
   {
     "id": "NOBlackBox",
@@ -1231,7 +1231,7 @@
         ]
       }
     ],
-    "downloadCount": 1871
+    "downloadCount": 1872
   },
   {
     "id": "NOCursorOverride",
@@ -1431,7 +1431,7 @@
         "hash": "sha256:d5097c29370682ad2e02ce56baf73de184d9afa2a3ebab8b9116b3bdf2058b3d"
       }
     ],
-    "downloadCount": 104
+    "downloadCount": 108
   },
   {
     "id": "NOX",
@@ -1545,7 +1545,7 @@
         ]
       }
     ],
-    "downloadCount": 796
+    "downloadCount": 803
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1697,7 +1697,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116240
+    "downloadCount": 116246
   },
   {
     "id": "skyeye_voice",

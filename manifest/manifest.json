@@ -818,7 +818,7 @@
         ]
       }
     ],
-    "downloadCount": 176
+    "downloadCount": 177
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -984,7 +984,7 @@
         "dependencies": [
           {
             "id": "no-autopilot-mod",
-            "version": "4.16.1"
+            "version": "4.17.0"
           },
           {
             "id": "BepInEx.ConfigurationManager",
@@ -1012,7 +1012,7 @@
         ]
       }
     ],
-    "downloadCount": 3168
+    "downloadCount": 3169
   },
   {
     "id": "no-autopilot-mod",
@@ -1035,6 +1035,21 @@
     "githubRepoName": "no-autopilot-mod",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "com.qwerty1423.NOAutopilot-4.17.0.7z",
+        "version": "4.17.0",
+        "category": "preRelease",
+        "type": "plugin",
+        "gameVersion": "0.32",
+        "downloadUrl": "https://github.com/qwerty1423/no-autopilot-mod/releases/download/v4.17.0/com.qwerty1423.NOAutopilot-4.17.0.7z",
+        "hash": null,
+        "dependencies": [
+          {
+            "id": "BepInEx.ConfigurationManager",
+            "version": "18.4.1"
+          }
+        ]
+      },
       {
         "fileName": "com.qwerty1423.NOAutopilot-4.16.1.zip",
         "version": "4.16.1",
@@ -1177,7 +1192,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 2195
+    "downloadCount": 2200
   },
   {
     "id": "NOBlackBox",
@@ -1545,7 +1560,7 @@
         ]
       }
     ],
-    "downloadCount": 850
+    "downloadCount": 853
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -1697,7 +1712,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 116314
+    "downloadCount": 116317
   },
   {
     "id": "skyeye_voice",
@@ -1764,7 +1779,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 707
+    "downloadCount": 708
   },
   {
     "id": "YawOnMouse",

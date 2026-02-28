@@ -1,0 +1,19 @@
+{
+  "id": "MissileTrailReducer",
+  "displayName": "Missile Trail Reducer",
+  "description": "Adjust missile smoke trail and engine exhaust particle opacity. Configurable slider from 0 (invisible) to 1 (default).",
+  "tags": ["QoL"],
+  "urls": [{"name": "info", "url": "https://github.com/9138noms/NuclearOption-MissileTrailReducer"}],
+  "authors": ["9138noms"],
+  "githubOwner": "9138noms",
+  "githubRepoName": "NuclearOption-MissileTrailReducer",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [{
+    "fileName": "MissileTrailReducer.dll",
+    "version": "1.0.0",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.32",
+    "downloadUrl": "https://github.com/9138noms/NuclearOption-MissileTrailReducer/releases/download/v1.0.0/MissileTrailReducer.dll"
+  }]
+}
